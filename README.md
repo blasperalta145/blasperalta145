@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently making projects with Databases in MySQL and visualisations on tableau
 
