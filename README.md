@@ -15,4 +15,4 @@
 ### Contact
 - Email: peraltablas145@gmail.com
 - Linkedin profile: http://www.linkedin.com/in/blas-peralta
-- Tableau profile: https://github.com/blasperalta145
+- Tableau profile: : https://public.tableau.com/app/profile/blas.peralta
